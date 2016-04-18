@@ -1,7 +1,7 @@
 {
   "name": "angular-location-decorator",
   "description": "A $location decorator that modifies method path to log when it is used",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Knorcedger",
   "bugs": "https://github.com/Knorcedger/angular-location-decorator/issues",
   "devDependencies": {
