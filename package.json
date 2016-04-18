@@ -1,0 +1,26 @@
+{
+  "name": "angular-location-decorator",
+  "description": "A $location decorator that modifies method path to log when it is used",
+  "version": "1.0.0",
+  "author": "Knorcedger",
+  "bugs": "https://github.com/Knorcedger/angular-location-decorator/issues",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-google": "^0.5.0"
+  },
+  "homepage": "https://github.com/Knorcedger/angular-location-decorator",
+  "keywords": [
+    "$location",
+    "angular",
+    "debug",
+    "decorator"
+  ],
+  "license": "MIT",
+  "main": "angular-location-decorator.js",
+  "repository": {
+    "url": "https://github.com/Knorcedger/angular-location-decorator"
+  },
+  "scripts": {
+    "test": "eslint angular-location-decorator.js"
+  }
+}
